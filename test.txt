@@ -1,4 +1,3 @@
-hello
- Pavel, hello git
+hello Pavel, hello git
 Анука попробуй это закомитить)
 Тетья строка + новый файл
